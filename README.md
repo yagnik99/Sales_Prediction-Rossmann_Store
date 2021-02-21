@@ -10,7 +10,7 @@ Final Notebook - https://github.com/yagnik99/Sales_Prediction-Rossmann_Store/blo
 
 Presentation - https://github.com/yagnik99/Sales_Prediction-Rossmann_Store/blob/main/Project%20Presentation.pdf
 
-##Important Works/ Conclusion : 
+## Important Works/ Conclusion : 
 
 Worked to Forecast Sales for a major drug store chain (Rossmann Store), and built a Machine Learning solution with Meta Regressor in the stacked ensembles model as XG Boost on base models such as Random Forest, Light GBM, and Decision Trees giving the lowest RMSPE of 9.2% as the final solution.
 
